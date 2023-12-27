@@ -1,7 +1,7 @@
 # -*- encoding: utf-8 -*-
 
 Gem::Specification.new do |s|
-  s.name			  = %q{pothoven-attachment_fu}
+  s.name			  = %q{attachment_fu}
   s.authors			  = ["Rick Olson", "Steven Pothoven"]
   s.summary			  = %q{attachment_fu as a gem}
   s.description		  = %q{This is a fork of Rick Olson's attachment_fu adding Ruby 1.9 and Rails 3.2 and Rails 4 support as well as some other enhancements.}
